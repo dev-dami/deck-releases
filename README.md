@@ -1,6 +1,6 @@
 # deck
 
-**one deck for all your agents**
+**one deck**
 
 Deck is a terminal app for running Claude Code, Codex, OpenCode and Antigravity side by side in one chat. It drives the CLIs you already have, under your own logins: a session holds you and any number of agents, they can hand work to each other where you can see it, and every reply, tool call, diff and approval shows up in one place.
 
