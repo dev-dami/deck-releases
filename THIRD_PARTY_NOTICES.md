@@ -1,3 +1,7 @@
+# Third-party notices
+
+Deck includes code from third-party software. Its license terms and copyright notices follow.
+
 # Functional Source License, Version 1.1, MIT Future License
 
 ## Abbreviation

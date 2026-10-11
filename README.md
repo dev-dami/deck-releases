@@ -40,4 +40,4 @@ deck          # start in a project folder
 
 ## License
 
-Deck is MIT licensed ([LICENSE](LICENSE)). It is a fork of [Crush](https://github.com/charmbracelet/crush), whose code is under the FSL-1.1-MIT license ([LICENSE.crush.md](LICENSE.crush.md)).
+Copyright © 2026 dev-dami. All rights reserved. The releases here may be installed and used; third-party notices are in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
